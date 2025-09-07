@@ -6,7 +6,7 @@ It contains tutorials, examples, and embedded videos to help beginners learn **C
 ---
 
 ## Demo
-https://learning-dsa.netlify.app/
+https://learn-dsa-coderarmy.netlify.app/
 
 ---
 
